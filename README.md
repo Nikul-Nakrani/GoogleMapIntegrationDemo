@@ -53,4 +53,4 @@ This project is licensed under the [MIT License](LICENSE).
 - The project is inspired by the Google Maps API documentation.
 - Special thanks to contributors.
 
-***Happy Coding***
+**Happy Coding!!!**
